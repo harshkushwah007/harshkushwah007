@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a Frontend Developer, from Indore, India</h2>
+<h2 align="left">Hi 👋! My name is Harsh and I'm a Full-Stack Developer, from Indore, India</h2>
 
 ###
 
